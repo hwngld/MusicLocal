@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemMusic"
+        android:icon="@drawable/icon_music"
+        android:iconTint="@color/colorTextIcons"
+        android:title="@string/song"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemArtist"
+        android:icon="@drawable/ic_artist"
+        android:iconTint="@color/colorTextIcons"
+        android:title="@string/artist"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemAlbum"
+        android:icon="@drawable/ic_album"
+        android:iconTint="@color/colorTextIcons"
+        android:title="@string/album"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemFavourite"
+        android:icon="@drawable/ic_heart"
+        android:iconTint="@color/colorTextIcons"
+        android:title="@string/favourite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemSettings"
+        android:icon="@drawable/ic_settings"
+        android:iconTint="@color/colorTextIcons"
+        android:title="@string/settings"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Music Local</string>
+    <string name="song">Song</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">Empty</string>
+    <string name="filter">Filter</string>
+    <string name="artist">Artist</string>
+    <string name="defaults">Default</string>
+    <string name="album">Album</string>
+    <string name="favourite">Favourite</string>
+    <string name="repeat_a_song">Repeat a song</string>
+    <string name="repeat">Repeat</string>
+    <string name="music_player_will_repeat_a_song_if_enable">Music player will repeat a song if enable</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="the_next_song_will_be_a_random_song">The next song will be a random song</string>
+    <string name="enter_here">Enter here</string>
+    <string name="set_time">Set time</string>
+    <string name="timer">Timer</string>
+    <string name="set_the_time_to_pause_media_player">Set the time to pause media player</string>
+    <string name="settings">Settings</string>
+</resources>
