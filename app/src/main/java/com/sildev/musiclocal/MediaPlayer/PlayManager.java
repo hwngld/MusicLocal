@@ -54,7 +54,6 @@ public class PlayManager {
                     playSong(position);
                     context.sendBroadcast(new Intent(MusicConstants.ACTION_PLAY));
                 } else {
-                    nextSong();
                     context.sendBroadcast(new Intent(MusicConstants.ACTION_NEXT));
                 }
             }
